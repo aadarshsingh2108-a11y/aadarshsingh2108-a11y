@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Singh! 👋
 🎓 **BCA Student** at  
-**Jagan Institute of Management Studies**  
+**Maharaja Agrasen Institute of Technology**  
 Passionate about technology, development, and continuous learning.
 
 ## 🚀 About Me
