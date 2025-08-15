@@ -1,6 +1,6 @@
-# Hi there, I'm Aryan Singh! 👋
+# Hi there, I'm Aadarsh Singh! 👋
 🎓 **BCA Student** at  
-**Maharaja Agrasen Institute of Technology**  
+**Deen Dayal Rustagi College of Management and Technology**  
 Passionate about technology, development, and continuous learning.
 
 ## 🚀 About Me
