@@ -1,6 +1,5 @@
-# Hi there, I'm Aadarsh Singh! 👋
-🎓 **BCA Student** at  
-**Deen Dayal Rustagi College of Management and Technology**  
+# Hi there 👋
+
 Passionate about technology, development, and continuous learning.
 
 ## 🚀 About Me
